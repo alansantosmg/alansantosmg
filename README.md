@@ -1,8 +1,7 @@
 ### Hi there! Welcome to my profile 👋
-🌱 I’m currently learning:
--  Golang, Vanilla Javascript, Html 5 and CSS.
-
+🌱 I’m currently learning: Golang, Vanilla Javascript, Html 5 and CSS.
 🔭 I’m currently working at a Railroad Brazilian company.
+⚡ Fun fact: I hate portuguese accents. 
 
 <!--
 **alansantosmg/alansantosmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +15,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  ...
 -->
