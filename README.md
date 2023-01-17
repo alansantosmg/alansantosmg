@@ -1,5 +1,9 @@
 ### Hi there! Welcome to my profile 👋
-- 🌱 I’m currently learning Go programming language.
+🌱 I’m currently learning:
+-  Golang, Vanilla Javascript, Html 5 and CSS.
+
+🔭 I’m currently working at a Railroad Brazilian company.
+
 <!--
 **alansantosmg/alansantosmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
