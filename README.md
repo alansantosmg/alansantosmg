@@ -1,6 +1,6 @@
 ### Hi there! Welcome to my profile 👋
 
-🌱 I’m currently learning: Golang, Vanilla Javascript, Html 5 and CSS.
+🌱 I’m currently learning Vanilla Javascript, Html 5 and CSS.
 
 🔭 I’m currently working at a Railroad Brazilian company.
 
