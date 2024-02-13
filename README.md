@@ -1,7 +1,9 @@
 ### Hi there! Welcome to my profile 👋
 
 🌱 I’m currently learning Powershell and Azure cloud.
+
 🔭 I’m currently working at a tech consulting company
+
 ⚡ Fun fact: I hate portuguese accents. 
 
 <!--
