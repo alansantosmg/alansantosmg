@@ -1,9 +1,7 @@
 ### Hi there! Welcome to my profile 👋
 
-🌱 I’m currently learning Vanilla Javascript, Html 5 and CSS.
-
-🔭 I’m currently working at a Railroad Brazilian company.
-
+🌱 I’m currently learning Powershell and Azure cloud.
+🔭 I’m currently working at a tech consulting company
 ⚡ Fun fact: I hate portuguese accents. 
 
 <!--
