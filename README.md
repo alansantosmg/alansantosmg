@@ -1,10 +1,9 @@
 ### Hi there! Welcome to my profile 👋
 
-🌱 I’m currently learning Powershell and Azure cloud and Golang.
+🌱 I’m a brazilian I.T. tech manager. Currently in migrating do Data and IA. My interests are Project Management, Kanban, Python, ML (Machine Learning), ANN (Artifitial Neural Networks), R language, Statistics, Linux, I.T Governance (Risk management, Change Management) and devops. 
+Currently I'm studying ML, ANN, Statistics in my latu-sensu degree at UTFPR, a brazilian University.
+Here you can get look in my portifolio. 
 
-🔭 I’m currently working at a tech consulting company
-
-⚡ Fun fact: I hate portuguese accents. 
 
 <!--
 **alansantosmg/alansantosmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
